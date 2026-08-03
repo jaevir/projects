@@ -1,7 +1,5 @@
 # Modelling a Finite Prisoner's Dilemma
-#### Video Demo: <URL HERE>
-##### Description:
-TODO
+
 
 # OBJECTIVE
 This project aims to simulate a finite Prisoner's Dilemma game between two players using a predetermined set of strategies.
